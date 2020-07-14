@@ -1,0 +1,71 @@
+
+body{
+	font-family: Roboto, sans-serif;
+	font-size: 16px;
+}
+
+figcaption{
+	display: block;
+}
+a:link{
+	color: #0062b0;
+}
+a:visited{
+	color: #1b1b1b;
+}
+ul{
+	display: block;
+	max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#main{
+	background-color: #EEE;
+	border-radius: 8px;
+}
+#title{
+	text-align: center;
+	margin-bottom: 5px;
+	padding-top: 10px;
+}
+#sub-title{
+	text-align: center;
+	margin-top: 0;
+	/*border: 1px solid black;*/
+}
+#img-div{
+	background-color: white;
+	padding-top:10px;
+	padding-bottom: 10px;
+	margin: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 5px;
+}
+#image{
+	max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}    
+#img-caption{
+	margin: 5px 0 5px 0;
+	text-align: center;s
+}
+#headline{
+	text-align: center;
+}
+#tribute-info{
+	margin:10px 50px 10px 50px;
+}
+#books{
+	text-align: center;
+}
+#read-more{
+	text-align: center;
+	padding-bottom: 20px;
+}
+footer{
+	text-align: center;
+}
